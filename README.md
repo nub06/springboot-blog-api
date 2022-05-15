@@ -7,7 +7,7 @@
 - Java 11
 - Spring Boot
 - Spring Web 
-- Spring Data Jpa
+- Spring Data JPA
 - H2
 - Lombok 
 - MapStruct
