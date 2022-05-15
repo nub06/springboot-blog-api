@@ -15,19 +15,19 @@
 
 #### Comment API
 
-```http
+```
   GET /v1/api/comment/get 
 ```
 ```
   GET /v1/api/comment/get/{id} 
 ```
-```http
+```
   POST /v1/api/comment/save 
 ```
-```http
+```
   PUT /v1/api/comment/update/{id}
 ```
-```http
+```
   DELETE /v1/api/comment/delete/{id}
 ```
 
