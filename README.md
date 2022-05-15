@@ -33,37 +33,37 @@
 
 #### Post API
 
-```http
+```
   GET /v1/api/posts/get 
 ```
-```http
+```
   GET /v1/api/posts/get/{id} 
 ```
-```http
+```
   POST /v1/api/posts/save 
 ```
-```http
+```
   PUT /v1/api/posts/update/{id}
 ```
-```http
+```
   DELETE /v1/api/posts/delete/{id}
 ```
 
 #### User API
 
-```http
+```
   GET /v1/api/users/get 
 ```
-```http
+```
   GET /v1/api/users/get/{id} 
 ```
-```http
+```
   POST /v1/api/users/save 
 ```
-```http
+```
   PUT /v1/api/users/update/{id}
 ```
-```http
+```
   DELETE /v1/api/users/delete/{id}
 ```
 ## Run&Build
