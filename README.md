@@ -18,7 +18,7 @@
 ```http
   GET /v1/api/comment/get 
 ```
-```http
+```
   GET /v1/api/comment/get/{id} 
 ```
 ```http
